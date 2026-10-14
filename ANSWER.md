@@ -1,4 +1,4 @@
-คำตอบ — ชื่อ- นามสกุลรหัสนักศึกษา
+คำตอบ — วิทวัส บุญแสนยศ 671540005017-2
 Part A — เรียนรู้ image kamthornsa/ksu-promo:1.0
 คุณ	คำตอบ	คำสั่งที่
 | Port |ทำตามการตรวจสอบมี 2 พอร์ต ดูบรรทัด EXPOSE บนสุดในประวัติว่าเลขไหนคือของภาพนั้นแล้วดูอ่านเลขเดียว| `docker inspect kamthornsa/ksu-promo:1.0` และ `docker history --no-trunc kamthornsa/ksu-promo:1.0` |
@@ -8,7 +8,7 @@ Part A — เรียนรู้ image kamthornsa/ksu-promo:1.0
 | Base image |ด้านล่างสุดที่ขึ้นต้นด้วยADDชื่อและเหตุผลของการตอบเป็นชื่อ:tag| `docker history --no-trunc kamthornsa/ksu-promo:1.0` |
 Part B — รหัสลับบนหน้าโปรโมชั่น
 
-(CE6145)
+(ESPRESS0-47)
 
 ส่วน C —
 1. ทำไมแก้ข้อความบนหน้าโปรโมชั่นไม่ได้ แต่หน้าเมนูแก้ได้
